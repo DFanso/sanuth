@@ -1,6 +1,6 @@
 # Sanuth Thrimanna
 
-<img src="https://avatars.githubusercontent.com/u/183267955?v=4" alt="description" width="150" style={{ borderRadius: "50%" }} />
+<img src="https://github.com/DFanso/sanuth/blob/main/The_king_pigga.jpg?raw=true" alt="Astronomy Camps" width="150" borderRadius="50%" />
 
 
 ### Passionate Biotechnology Undergraduate  
